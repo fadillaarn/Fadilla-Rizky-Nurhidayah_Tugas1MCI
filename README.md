@@ -3,6 +3,7 @@
 Tugas 1 Oprec Admin MCI 2023
 
 Screenshot Query :
+
 1. 
 
 ![No1](https://user-images.githubusercontent.com/91003946/227263900-ebc8f1a1-04b9-4353-84d4-c8480aa73d97.png) 

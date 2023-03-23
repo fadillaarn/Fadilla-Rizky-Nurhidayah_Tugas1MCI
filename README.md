@@ -6,7 +6,7 @@ Nama  : Fadilla Rizky Nurhidayah <br>
 NRP   : 5025211110
 
 
-Screenshot Query : <br>
+Screenshot Hasil Query : <br>
 1. <br> ![No1](https://user-images.githubusercontent.com/91003946/227263900-ebc8f1a1-04b9-4353-84d4-c8480aa73d97.png) 
 
 2. <br> ![No2](https://user-images.githubusercontent.com/91003946/227263905-e0ed3bf1-453f-414b-82d0-d000366ed129.png)
